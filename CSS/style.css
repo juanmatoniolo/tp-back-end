@@ -1,0 +1,37 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #212529f8;
+}
+
+
+footer {
+    background-image: url(../Imagenes/6-\ FOOTER/1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    background-color: #212529f8;
+    height: 150px;
+}
+
+header{
+    background-color: #1e2021f8;
+}
+
+#navbar {
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+
+}
+
+.foot{
+    background-color: #212529f8;
+    border-top: 1rem;
+    border-color: #212529f8;
+}
+
+
+#table{
+    background-color: #1e2021f8;
+    
+}
